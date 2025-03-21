@@ -19,4 +19,5 @@ Under construction. Be patient!
 Under construction. Be patient!
 ## Contact
 For any questions or suggestions, you can contact us at:
+- hello@omega-x.eu
 - arturo.medela@eviden.com
