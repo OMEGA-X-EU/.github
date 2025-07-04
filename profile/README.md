@@ -14,6 +14,17 @@ This repository contains the details to the main building blocks employed in the
 and ready for GAia-X) project] (https://cordis.europa.eu/project/id/101069287/reporting/es), featuring items such as its federated catalogue, identity manager, data space connector, marketplace, and data model.
 ![logo-omega-X_white](https://github.com/user-attachments/assets/d0b523c9-4d21-46eb-b832-2ea8f974fbc1)
 
+## OMEGA-X dissemination videos
+Looking to see the project in action? We’ve started uploading a selection of videos that showcase key developments, demos, and explainers from across the project.
+
+These videos aim to provide insights into our open-source contributions and how they support the broader goals of the project. Whether you're a developer, researcher, or just curious, we hope you find them useful!
+
+👉 Check out the videos via our [YouTube channel] (https://www.youtube.com/@omega-x9006).
+
+More content will be added over time — stay tuned!
+
+We’d love to hear your thoughts or suggestions. Feel free to open an issue or start a discussion if you’d like to contribute or get in touch.
+
 ## Contribution
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
